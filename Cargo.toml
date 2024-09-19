@@ -1,0 +1,8 @@
+[package]
+name = "wget"
+version = "0.1.0"
+edition = "2021"
+authors = ["Laura"]
+
+[dependencies]
+clap = "2.26.0"
